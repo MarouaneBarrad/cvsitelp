@@ -1,0 +1,774 @@
+body{
+    margin:0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    color:#40514E;
+    position: relative;
+    
+    overflow: auto;
+
+}
+html {
+    overflow: auto;
+}
+   
+.chess{
+    width:2vw;
+    height:3vw;
+  }
+  .pouvoir{
+    width:20vw;
+    height: 25vw;
+  }
+  .animalfarm{
+    width:20vw;
+    height: 25vw;
+    
+  }
+  .hapiness{
+    width:20vw;
+    height: 25vw;
+  }
+  .saad{
+    width:20vw;
+    height: 25vw;
+  }
+  .eminem{
+    width:48vw;
+    height: 25vw;
+  }
+
+h1{
+    
+
+    font-size:4rem;
+    color:#66BFBF;
+    margin:0px auto 0px auto ;  
+    
+    font-family: 'Sacramento', cursive;
+    font-family: 'Montserrat', sans-serif;
+    line-height:2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+    padding-bottom: 2vw;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+    
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+.middle-container{
+
+    margin:2vw 0;
+ }
+ .thanks1{
+                 
+    color:white;
+    font-size: 3vw;
+    margin-top: 2vw;
+    margin-bottom: 0px;
+    bottom:6vw;
+    top:3vw;
+    
+    
+   
+}
+.thanks2{
+    color:white;
+    margin-top:0px;
+    position: relative;
+    bottom: 2.5vw;
+    font-size: 3vw;
+    
+    
+    margin-bottom:1.7035775127768313vh;
+}
+.bottomcontainer{
+   height:25vw;
+   width:100vw;
+   background-color:#333;
+   
+
+}
+.mechatronics{
+    text-decoration: underline;
+}
+
+
+.profilephoto{
+    width:25vw;
+    height:25vw;
+    color: aqua;
+}
+.Cimg{
+    width:25%;
+    float: left;
+    margin-right: 3vw;
+}
+.pyimg{
+    width:25%;
+    float: right;
+    margin-left: 3vw;
+}
+.skill-row{
+    width:50%;
+    margin:6vw auto 6vw auto;
+    text-align: left;
+    line-height:2;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 1vw;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 1.5vw;
+    padding: 0.8vw 1vw 0.8vw 1vw;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .bottom-container{
+    position:absolute;
+    bottom: 0;
+    background-color:#333;
+    height:15vw;
+    width:100%;
+    margin-top: 5vw;
+    
+   
+  }
+  .footer-link{
+    position: relative;
+    top: 50px;
+    font-size:25px;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
+  
+ .copyright{
+    
+    margin-bottom: 0;
+    color:#EAF6F6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+    position:absolute;
+    bottom:0;
+    left:50%;
+    transform: translate(-50%, -50%);
+ }
+    
+   
+ 
+ a {
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+}
+.footer-link1{
+    position: relative;
+    top: 50px;
+    margin-right:40px;
+    margin-left:40px;
+    font-size:25px;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-me{
+    line-height: 2;
+    height:30vw;
+    margin-bottom: 20vw;
+}
+.textfollowing{
+    margin:0 0 1vw 0;
+    position:relative;
+    bottom:4vw;
+}
+.finaltext{
+    position:relative;
+    bottom:3vw;
+}
+.horizontal_dotted_line {
+    border-bottom: 1px dotted black;
+    width: 80px;
+  }
+.dotted_border{
+    border-bottom: dotted 6px #11999E;
+
+}
+.intro{
+    width:50%;
+    margin:auto;
+
+}
+p{
+    line-height: 2;
+}
+hr{
+    border:dotted skyblue 6px;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+    
+}
+.MATLABimg{
+    width:25%;
+    float: left;
+    margin-right: 3vw; 
+}
+.simulinkimg{
+    width:25%;
+    float: right;
+    margin-left: 3vw; 
+}
+.catia_v5_img{
+    width:25%;
+    float: left;
+    margin-right: 3vw; 
+}
+.proteusimg{
+    width:25%;
+    float: right;
+    margin-left: 3vw; 
+}
+.step7{
+    width:25%;
+    float: left;
+    margin-right: 3vw; 
+}
+
+ul {
+    list-style-type: none;
+    position:absolute;
+    top:0px;
+    margin: 0;
+    padding: 0;
+    
+    background-color:black;
+    width:100%;
+   
+   
+}
+  
+
+  
+
+  
+li a:hover {
+    background-color:white;
+    color:black;
+}
+
+
+.topsection{
+    margin-bottom: 0px;
+    height:200vh;
+}
+
+
+.navigbar{
+    overflow: auto;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+    display: flex;
+    overflow: auto;
+
+}
+.leftbars{
+    float: left;
+    display: flex;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 0.7vw 0.7vw;
+    text-decoration: none;
+    font-size: 1.5vw;
+    z-index: 2;
+  }
+.rightbars{
+    float: right;
+    background-color: #333;
+    
+    display: flex;
+    color: #f2f2f2;
+    width:10.5vw;
+    z-index: 2;
+    position:fixed;
+    right:0;
+    height:2.9vw;
+  }
+  .medias{
+    
+    float: right;
+    display: flex;
+    
+    width:1.5vw;
+    height:1.6vw;
+    z-index: 2;
+
+    padding: 0.8vw 1vw;
+    
+    
+  }
+.leftbars5{
+    float: left;
+    display: flex;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 0.7vw 1vw;
+    text-decoration: none;
+    font-size: 1.5vw;
+    z-index: 2;
+}
+.skill-row1{
+  
+        width:50%;
+        margin:6vw auto 6vw auto;
+        text-align: left;
+        line-height:2;
+    
+}
+.skill-row2{
+    width:50%;
+    margin:6vw auto 6vw auto;
+    text-align: left;
+    line-height:2;
+}
+
+.right-texts{
+    float:right;
+    background-color:#333;
+    color:white;
+    font-size: 1.5vw;
+    width:18vw;
+    top:2vw;
+    left:2vw;
+    bottom:7vw;
+}
+.left-texts{
+    float:right;
+    background-color:#333;
+    color:white;
+    font-size: 1.5vw;
+    width:20vw;
+    top:2vw;
+    right:2vw;
+    bottom:7vw;
+    text-align: center;
+}
+.linkedinimg{
+    width:36px;
+    height:36px;
+}
+.github{
+    width:36px;
+    height:36px;
+}
+
+
+.twitterimg{
+    width:1vw;
+    height:36px;
+}
+.returntop{
+    width:4.4vw;
+    height:4.4vw;
+    position: absolute;
+    bottom:0;
+    right:0;
+    margin-top: 1vw;
+    z-index: 2;
+}
+.pdfimg{
+    width: 5vw;
+    height:5vw;
+}
+.courses1{
+    text-decoration: none;
+
+}
+a courses1:hover{
+    color:black !important;
+}
+.systemeauto{
+    width:800px;
+    height:470px;
+}
+@media only screen  and (min-width:400px) and (max-width:800px){
+    .leftbars{
+        float: left;
+        display: flex;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 0.7vw 0.7vw;
+        text-decoration: none;
+        font-size: 3vw;
+        z-index: 2;
+      }
+      .leftbars5{
+        float: left;
+        display: flex;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 0.7vw 1vw;
+        text-decoration: none;
+        font-size: 3vw;
+        z-index: 2;
+    }
+    .medias{
+    
+        float: right;
+        display: flex;
+        
+        width:1.5vw;
+        height:3vw;
+        z-index: 2;
+    
+        padding: 0.8vw 1.5vw;
+        
+        
+      }
+      .rightbars{
+        float: right;
+        background-color: #333;
+        
+        display: flex;
+        color: #f2f2f2;
+        width:14vw;
+        z-index: 2;
+        position:fixed;
+        right:0;
+        height:2.9vw;
+      }
+      .profilephoto{
+        width:50vw;
+        height:50vw;
+        color: aqua;
+    }
+ 
+    .bottom-container{
+        position:absolute;
+        bottom:0;
+        background-color:#333;
+        width:100%;
+      }
+     
+    .contact-me{
+        line-height: 2;
+        margin-bottom: 20vw;
+       
+        height:10vw;
+        font-size: 3vw;
+        margin-bottom: 70vw;
+    }
+    .copyright{
+    
+        margin-bottom: 0;
+        color:#EAF6F6;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.5vw;
+        position:absolute;
+        bottom:0;
+        left:50%;
+        transform: translate(-50%, -50%);
+     }
+     .ESTM{
+        width:90%;
+     }
+     .systemeauto{
+        width:90%;
+     }
+     .pic{
+        width:90%;
+     }
+     .LDR{
+        width:90%;
+     }
+    .dht11{
+        width:90%;
+    }
+  }
+  @media only screen and (max-width:400px){
+    .leftbars{
+        float: left;
+        display: flex;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 0.7vw 0.7vw;
+        text-decoration: none;
+        font-size: 3vw;
+        z-index: 2;
+      }
+      .leftbars5{
+        float: left;
+        display: flex;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 0.7vw 1vw;
+        text-decoration: none;
+        font-size: 3vw;
+        z-index: 2;
+    }
+    .medias{
+    
+        float: right;
+        display: flex;
+        
+        width:1.5vw;
+        height:3vw;
+        z-index: 2;
+    
+        padding: 0.8vw 1.5vw;
+        
+        
+      }
+      .rightbars{
+        float: right;
+        background-color: #333;
+        
+        display: flex;
+        color: #f2f2f2;
+        width:15vw;
+        z-index: 2;
+        position:fixed;
+        right:0;
+        height:2.9vw;
+      }
+      h1{
+        font-size: 10vw;
+      }
+      .profilephoto{
+        width:90%;
+        height:60vw;
+      }
+      h2{
+        font-size: 10vw;
+      }
+      
+      .intro{
+        width:90%;
+        margin:auto;
+    
+    }
+    .skill-row{
+        width:90%;
+        margin:20vw auto;
+        text-align: left;
+        line-height:2;
+    }
+    .skill-row1{
+  
+        width:90%;
+        margin: 20vw auto;
+        text-align: left;
+        line-height:2;
+    
+    }
+    .skill-row2{
+    width:90%;
+    margin: 20vw auto;
+    text-align: left;
+    line-height:2;
+    }
+    .bottom-container{
+        position:absolute;
+        bottom:0;
+        background-color:#333;
+        width:100%;
+      }
+     
+    .contact-me{
+        line-height: 2;
+        margin-bottom: 20vw;
+       
+        height:10vw;
+        font-size: 3vw;
+        margin-bottom: 100vw;
+    }
+    .copyright{
+    
+        margin-bottom: 0;
+        color:#EAF6F6;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.5vw;
+        position:absolute;
+        bottom:0;
+        left:50%;
+        transform: translate(-50%, -50%);
+     }
+     .textfollowing{
+        margin:0 0 1vw 0;
+        position:relative;
+        bottom:4vw;
+        font-size: 5vw;
+      }
+      .finaltext{
+        position:relative;
+        bottom:3vw;
+        font-size: 5vw;
+    }
+    .btn {
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 16;
+        -moz-border-radius: 16;
+        border-radius: 5vw;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 3.5vw;
+        padding: 0.8vw 1vw 0.8vw 1vw;
+        text-decoration: none;
+        font-family: 'Montserrat', sans-serif;
+    
+      }
+      .bottom-container{
+        position:absolute;
+        bottom: 0;
+        background-color:#333;
+        height:20vw;
+        width:100%;
+        margin-top: 5vw;
+        
+       
+      }
+      .left-texts{
+        float:right;
+        background-color:#333;
+        color:white;
+        font-size: 2vw;
+        width:28vw;
+        top:4vw;
+        right:2vw;
+        bottom:7vw;
+        text-align: center;
+    }
+    .right-texts{
+        float:right;
+        background-color:#333;
+        color:white;
+        font-size: 2vw;
+        width:28vw;
+        top:4vw;
+        left:2vw;
+        bottom:7vw;
+    }
+    .thanks1{
+                 
+        color:white;
+        font-size:  4vw;
+        margin-top: 3vw;
+        margin-bottom: 0px;
+        bottom:6vw;
+        top:3vw;
+        
+        
+       
+    }
+    .thanks2{
+        color:white;
+        margin-top:0px;
+        position: relative;
+        bottom: 2.5vw;
+        font-size: 4vw;
+        
+        
+        margin-bottom:1.7035775127768313vh;
+    }
+    .copyright{
+    
+        margin-bottom: 0;
+        color:#EAF6F6;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2vw;
+        position:absolute;
+        bottom:0;
+        left:50%;
+        transform: translate(-50%, -50%);
+     }
+     .ESTM{
+        width:90%;
+     }
+     .esgcnt{
+        width:90%;
+     }
+     .systemeauto{
+        width:90%;
+        height:100vw;
+     }
+     .pic{
+        width:100%;
+        height:80vw;
+     }
+     .pdfimg{
+        width: 10vw;
+        height:10vw;
+    }
+    .LDR{
+        width:100%;
+        height:120vw;
+    }
+    .dht11{
+        width:100%;
+        height:80vw;
+    }
+    .chess{
+        width:8vw;
+        height:8vw;
+    }
+    .pouvoir{
+        width:60vw;
+        height: 65vw;
+      }
+      .animalfarm{
+        width:60vw;
+        height: 65vw;
+      }
+      .hapiness{
+        width:60vw;
+        height: 65vw;
+      }
+      .saad{
+        width:60vw;
+        height: 65vw;
+      }
+      .eminem{
+        width:100vw;
+        height: 65vw;
+      }
+    
+    }
+  
+    
